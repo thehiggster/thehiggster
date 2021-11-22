@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @thehiggster
+- 👀 I’m interested in web application development, both front-end and backend. I also love server architecture, physical or in the cloud.
+- 🌱 I’m currently studying for the AWS Solutions Architecture certification
+- 💞️ I’m looking to collaborate on talks/workshops/mentoring with Universities (software engineering courses or similar). I also like to be involved in code clubs in the North
+- 📫 How to reach me higgster.com / james@higgster.com
